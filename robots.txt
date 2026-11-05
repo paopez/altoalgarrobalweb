@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://altoalgarrobal.cl/sitemap.xml
